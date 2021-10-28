@@ -1,0 +1,1 @@
+# amplify-vue-test-1
